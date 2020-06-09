@@ -1,0 +1,15 @@
+{
+  "name": "bit_split",
+  "version": "1.0.0",
+  "description": "bit splitting",
+  "main": "main.js",
+  "scripts": {
+    "test": "splitter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "split"
+  },
+  "author": "Christopher Zinser",
+  "license": "MIT"
+}
